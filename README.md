@@ -32,10 +32,10 @@
   </a>
   <h3><br>✨ Developpment System ✨</h3>
   <a href="https://www.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" />
+    <img src="https://img.icons8.com/fluency/48/windows-10.png" width="40" height="40" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/unity.png" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/linux--v1.png" width="40" height="40" />
   </a>
 </div>
 
